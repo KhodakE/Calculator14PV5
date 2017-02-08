@@ -7,5 +7,9 @@ namespace Scram
 {
     public abstract class Output : Ioutput
     {
+        public Output()
+        {
+            Console.WriteLine("Hello");
+        }
     }
 }
