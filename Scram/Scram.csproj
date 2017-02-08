@@ -52,6 +52,7 @@
     <Compile Include="Minus.cs" />
     <Compile Include="Multi.cs" />
     <Compile Include="Output.cs" />
+    <Compile Include="Percent.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Root.cs" />

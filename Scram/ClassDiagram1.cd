@@ -32,6 +32,7 @@
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
+
   <Class Name="Scram.Minus">
     <Position X="6" Y="6.75" Width="1.5" />
     <TypeIdentifier>
@@ -45,6 +46,13 @@
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Root.cs</FileName>
+
+  <Class Name="Scram.Percent">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Percent.cs</FileName>
+
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
