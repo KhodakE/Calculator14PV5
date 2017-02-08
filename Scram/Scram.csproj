@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClassKostik.cs" />
     <Compile Include="Divid.cs" />
     <Compile Include="Iinput.cs" />
     <Compile Include="Input.cs" />
@@ -51,9 +52,12 @@
     <Compile Include="Ioutput.cs" />
     <Compile Include="JayOperator.cs" />
     <Compile Include="Multi.cs" />
+    <Compile Include="my.cs" />
     <Compile Include="Output.cs" />
+    <Compile Include="Percent.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Root.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
