@@ -7,5 +7,6 @@ namespace Scram
 {
     public abstract class JayOperator : IOperation, IOperationExeption
     {
+        public string Red { get; set; }
     }
 }
