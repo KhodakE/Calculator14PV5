@@ -1,1 +1,2 @@
 D:\asp.net\Lesson 20 owin katana\Scram\Scram\bin\Debug\Scram.exe.config
+C:\Users\student.STEP\Source\Repos\Calculator14PV5\Scram\bin\Debug\Scram.exe.config
